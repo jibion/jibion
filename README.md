@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/jibion?label=Follow&style=social)](https://github.com/jibion/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-jibion-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jibion@gmail.com)](mailto:jibion@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/analista-digital/)](https://www.linkedin.com/in/analista-digital/)
-[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social&logo=stack-overflow&logoColor=orange)](https://www.linkedin.com/in/analista-digital/)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/3257689/agustin)
 [![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/jibion)](https://dev.to/jibion)
 
 [![wakatime](https://wakatime.com/badge/user/882bd247-54eb-441a-bca1-0f51217f30ab.svg)](https://wakatime.com/@882bd247-54eb-441a-bca1-0f51217f30ab)
