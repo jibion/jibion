@@ -1,4 +1,13 @@
-### Hi there 👋
+# 👨‍💻👨‍🔬 [Agustin Suarez](https://hackthedad.com) [@jibion](https://hackthedad.com)
+
+## Hi there 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Solitur?style=social)](https://twitter.com/intent/follow?screen_name=jibion)
+[![GitHub followers](https://img.shields.io/github/followers/jibion?label=Follow&style=social)](https://github.com/jibion/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-jibion-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jibion@gmail.com)](mailto:jibion@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/analista-digital/)](https://www.linkedin.com/in/analista-digital/)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social&logo=stack-overflow&logoColor=orange)](https://www.linkedin.com/in/analista-digital/)
+[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/jibion)](https://dev.to/jibion)
 
 <!--
 **jibion/jibion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
