@@ -14,9 +14,13 @@
 [![ProfileViews](https://komarev.com/ghpvc/?username=jibion&color=orange&style=flat)](https://komarev.com/ghpvc/?jibion&color=orange)
 
 ## &#x1f4c8; GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jibion&show_icons=true&line_height=27&count_private=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibion&layout=compact&theme=gotham)](https://github.com/jibion)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibion&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/jibion)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jibion&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
-[![Project 1 Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jibion&repo=spanish_rent_price_index&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/jibion/spanish_rent_price_index)
-[![Project 2Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jibion&repo=projectx&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/jibion/projectx)
+<a href="https://github.com/jibion/spanish_rent_price_index">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jibion&repo=spanish_rent_price_index&theme=gotham" />
+</a>
+<a href="https://github.com/jibion/spanish_rent_index_map">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jibion&repo=spanish_rent_index_map&theme=gotham" />
+</a>
