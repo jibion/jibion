@@ -15,7 +15,7 @@
 
 ## &#x1f4c8; GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jibion&show_icons=true&line_height=27&count_private=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibion&layout=compact&theme=gotham)](https://github.com/jibion)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibion&layout=compact&theme=gotham&exclude_repo=projectx)](https://github.com/jibion)
 
 
 <a href="https://github.com/jibion/spanish_rent_price_index">
