@@ -101,16 +101,3 @@ SQL · Python · R · JavaScript · Tableau · Excel
 <p align="center">
   <img src="assets/github-contribution-snake.svg" />
 </p>
-
----
-
-<h2>📌 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/jibion/spanish_rent_price_index">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jibion&repo=spanish_rent_price_index&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/jibion/spanish_rent_index_map">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jibion&repo=spanish_rent_index_map&theme=tokyonight" />
-  </a>
-</p>
